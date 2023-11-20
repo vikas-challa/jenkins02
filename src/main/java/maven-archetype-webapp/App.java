@@ -1,4 +1,4 @@
-package maven-archetype-webapp;
+package maven-archetype-webapp
 
 /**
  * Hello world!
